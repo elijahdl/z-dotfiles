@@ -29,5 +29,6 @@ cask 'steam'
 cask 'transmission'
 cask 'vlc'
 cask 'discord'
-cask 'telegram-desktop'
+cask 'telegram-desktopk
 cask 'amethyst'
+cask 'bettertouchtool'
